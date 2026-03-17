@@ -13,11 +13,11 @@ const COMPANIES = [
   { name: "ServiceNow",  url: "servicenow.com" },
   { name: "Workday",     url: "workday.com" },
   // Add more companies below:
-  // { name: "Acme Corp", url: "acme.com" },
-];
+  // { name: "company name", url: "company.com" },
+];{ name: "Revolution Mixer", url: "revolutionmixers.com" }
 
 // ─── YOUR EMAIL ───────────────────────────────────────────────────────────
-const RECIPIENT_EMAIL = process.env.RECIPIENT_EMAIL || "you@youremail.com";
+const RECIPIENT_EMAIL = process.env.RECIPIENT_EMAIL || "gpetreikis@ramrodindustries.com";
 
 // ─── CRON HANDLER ─────────────────────────────────────────────────────────
 module.exports = async function handler(req, res) {
