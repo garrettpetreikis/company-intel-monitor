@@ -14,7 +14,8 @@ const COMPANIES = [
   { name: "Workday",     url: "workday.com" },
   // Add more companies below:
   // { name: "company name", url: "company.com" },
-];{ name: "Revolution Mixer", url: "revolutionmixers.com" }
+{ name: "Revolution Mixer", url: "revolutionmixers.com" },
+  ];
 
 // ─── YOUR EMAIL ───────────────────────────────────────────────────────────
 const RECIPIENT_EMAIL = process.env.RECIPIENT_EMAIL || "gpetreikis@ramrodindustries.com";
