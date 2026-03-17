@@ -8,13 +8,14 @@ const { sendDigest } = require("../lib/email");
 // ─── YOUR COMPANY WATCHLIST ────────────────────────────────────────────────
 // Add or remove companies here. Each needs a name and a URL.
 const COMPANIES = [
-  { name: "Salesforce",  url: "salesforce.com" },
   { name: "HubSpot",     url: "hubspot.com" },
-  { name: "ServiceNow",  url: "servicenow.com" },
-  { name: "Workday",     url: "workday.com" },
   // Add more companies below:
   // { name: "company name", url: "company.com" },
   { name: "Revolution Mixer", url: "revolutionmixers.com" },
+  { name: "Petersen Industries", url: "petersenind.com" },
+  { name: "Tag Mfg.", url: "tagmfg.us" },
+  { name: "TimberPro", url: "timberpro.com" },
+  { name: "Precision Husky", url: "precisionhusky.com" },
 ];
 
 // ─── YOUR EMAIL ───────────────────────────────────────────────────────────
