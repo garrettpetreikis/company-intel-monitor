@@ -1,0 +1,15 @@
+{
+  "name": "company-intel-monitor",
+  "version": "1.0.0",
+  "description": "Automated company intelligence monitor powered by Claude",
+  "main": "api/cron.js",
+  "scripts": {
+    "test": "node test-run.js"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.39.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
