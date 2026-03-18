@@ -16,6 +16,14 @@ const COMPANIES = [
   { name: "Tag Mfg.", url: "tagmfg.us" },
   { name: "TimberPro", url: "timberpro.com" },
   { name: "Precision Husky", url: "precisionhusky.com" },
+  { name: "LANCO", url: "thelancogroup.com" },
+  { name: "LiftKing", url: "liftking.com" },
+  { name: "Broderson", url: "broderson.com" },
+  { name: "LoadLifter", url: "load-liftermfg.com" },
+  { name: "Toyota Material Handling", url: "www.tmhna.com" },
+  { name: "Excel Baler", url: "excelbalermfg.com" },
+  { name: "Labrie Group", url: "labriegroup.com" },
+  { name: "CSTH Continental Mixer Bridgeport EZ-Pack", url: "onesourceparts.com" },
 ];
 
 // ─── YOUR EMAIL ───────────────────────────────────────────────────────────
