@@ -29,6 +29,7 @@ const COMPETITORS = [
   { name: "Rosenboom",   url: "rosenboom.com" },
   { name: "Aggressive Hydraulics", url: "aggressivehydraulics.com" },
   { name: "Texas Hydraulics", url: "texashydraulics.com" },
+  { name: "Wipro Hydraulics", url: "hydraulics.wiproinfra.com" },
   // Add up to 6 competitors — replace names and URLs with your real ones
 ];
 
