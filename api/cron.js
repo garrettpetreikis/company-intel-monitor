@@ -17,7 +17,6 @@ const COMPANIES = [
   { name: "LANCO", url: "thelancogroup.com" },
   { name: "LiftKing", url: "liftking.com" },
   { name: "Broderson", url: "broderson.com" },
-  { name: "LoadLifter", url: "load-liftermfg.com" },
   { name: "Toyota Material Handling", url: "www.tmhna.com" },
   { name: "Excel Baler", url: "excelbalermfg.com" },
   { name: "Labrie Group", url: "labriegroup.com" },
